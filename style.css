@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+}
+h2 {
+    font-weight: 700;
+}
+.section {
+    padding-top: 3rem;
+}
+.card {
+    padding: 10px;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.text-secondary {
+    color:#e83e8c !important
+}
